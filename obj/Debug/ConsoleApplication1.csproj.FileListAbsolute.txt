@@ -1,0 +1,23 @@
+G:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\ЛАБЫ\5 семестр\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\ЛАБЫ\5 семестр\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+N:\ЛАБЫ\5 семестр\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+N:\ЛАБЫ\5 семестр\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+N:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+N:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+N:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+N:\ЛАБЫ\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Admin\Desktop\Программы\C#\ConsoleApplication1(2 дека)(3)\bin\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Desktop\Программы\C#\ConsoleApplication1(2 дека)(3)\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Admin\Desktop\Программы\C#\ConsoleApplication1(2 дека)(3)\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Программы\C#\ConsoleApplication1(2 дека)(3)\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Программы\C#\ConsoleApplication1(2 дека)(3)\obj\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Desktop\Программы\C#\ConsoleApplication1(2 дека)(3)\obj\Debug\ConsoleApplication1.pdb
